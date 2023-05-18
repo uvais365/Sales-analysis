@@ -1,6 +1,7 @@
 # Sales-analysis
 Analyzing sales data and Generating sales insights
-#### Project Status: -Example: ![50%](https://progress-bar.dev/100) 100%
+
+##Project Status:Completed ✅️
 
 ## 1) Overview
 The purpose of this project is Generating sales insights from excel data
